@@ -4,3 +4,9 @@
 *.term
 
 # Python
+__pycache__/
+*.pyc
+
+# Outputs — regenerate, don't commit
+results/
+*.log
